@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+httpx  # if you call external APIs, e.g. Pollinations
